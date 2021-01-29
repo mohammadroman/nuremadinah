@@ -1,0 +1,9 @@
+[1213/221654.830:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1222/202856.258:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1223/000837.409:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1223/000837.409:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1223/000837.553:ERROR:exception_snapshot_win.cc(99)] thread ID 5076 not found in process
+[1223/000837.553:ERROR:exception_snapshot_win.cc(99)] thread ID 8252 not found in process
+[8624:9808:1226/205735:INFO:wow_nt_service_impl.cc(173)] Current process doesn't have full admin rights.
+[8624:9808:1226/205735:INFO:wow_nt_service_impl.cc(232)] Process's session ID: 3
+[8624:9808:1226/205735:INFO:wow_proxy_process_delegate.cc(71)] Elevate process from proxy process."C:\Program Files (x86)\UCBrowser\Application\UCBrowser.exe" --type=wow-updater -cenumupdatemode:updatemode_aliimtimer, with session ID: 3, hide: 1
